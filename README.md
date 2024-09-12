@@ -6,7 +6,7 @@
 This Project is about 193 countries and 5 continents and their various types of alcoholic-drink consumptions like beer, wine, spirit and alcohol. A drink or beverage is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. In addition, alcoholic drinks such as wine, beer, and liquor, which contain the drug ethanol, have been part of human culture for more than 8,000 years. Non-alcoholic drinks often signify drinks that would normally contain alcohol, such as beer, wine and cocktails, but are made with a sufficiently low concentration of alcohol by volume. In this data the drink types are beers, spirit, wine and alcohol. Beer is an alcoholic beverage produced by the brewing and fermentation of starches from cereal grains most commonly malted barley, although wheat, maize, rice, and oats are also used. An alcoholic beverage is a beverage containing alcohol. Alcoholic drinks are typically divided into three classes—beers, wines, and spirits—and typically their alcohol content is between 3% and 50%. Beer is one of the oldest alcoholic drinks in the world, the most widely consumed, and the third most popular drink after water and tea. Spirit or distilled beverage is an alcoholic drink produced by the distillation of grains, fruits, vegetables, or sugar that have already gone through alcoholic fermentation. Spirit generally has an alcohol concentration higher than 30% when bottled, and before being diluted for bottling, it typically has a concentration over 50%. Wine is an alcoholic drink made from fermented fruit. Yeast consumes the sugar in the fruit and converts it to ethanol and carbon dioxide, releasing heat in the process. Wine is most often made from grapes, and the term "wine" generally refers to grape wine when used without any qualification. Wine has been produced for thousands of years. In this data analysis of Python we will talk about these elements only.
 
 <p align="center">
-<a><img src="" width="700" height="300">
+<a><img src="https://github.com/Ritika821/Drinks-Python-Data-Analysis/blob/main/Graphs/Alcoholic-drink.jpg" width="700" height="300">
 </a></p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -44,61 +44,61 @@ This Project is about 193 countries and 5 continents and their various types of 
 1. There are total 79 countries whose beer servings is greater than equal to 100.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Drinks-Python-Data-Analysis/blob/main/Graphs/Beers.jpg" height="200">
 </a></p>
 
 2. There are total 55 countries whose wine servings is greater than equal to 50 and total liters of alcohol is greater than equal to 3.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Drinks-Python-Data-Analysis/blob/main/Graphs/Wine%20in%20Continents.png" height="200">
 </a></p>
 
 3. Europe is the continent that consumes maximum amount of beer i.e. 8720 than other continents.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Drinks-Python-Data-Analysis/blob/main/Graphs/Beer%20in%20Continents.png" height="200">
 </a></p>
 
 4. Europe is the continent that consumes maximum amount of wine i.e. 6400 than other continents.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Drinks-Python-Data-Analysis/blob/main/Graphs/Wine%20in%20Continents.png" height="200">
 </a></p>
 
 5. Europe is the continent that consumes maximum amount of spirit i.e. 5965 than other continents.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Drinks-Python-Data-Analysis/blob/main/Graphs/Spirit%20in%20Continents.png" height="200">
 </a></p>
 
 6. Europe is the continent that consumes maximum amount of pure alcohol i.e. 387.8 than other continents.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Drinks-Python-Data-Analysis/blob/main/Graphs/Pure%20Alcohol%20in%20Continents.png" height="200">
 </a></p>
 
 7. Beer is mostly consumed in Namibia i.e. 376 which is in Southern Africa.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Drinks-Python-Data-Analysis/blob/main/Graphs/Namibia.jpg" height="200">
 </a></p>
 
 8. Spirit is mostly consumed in Grenada i.e. 438 which is in Caribbean
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Drinks-Python-Data-Analysis/blob/main/Graphs/Grenada.png" height="200">
 </a></p>
 
 9. Wine is mostly consumed in France i.e. 370 which is in Europe.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Drinks-Python-Data-Analysis/blob/main/Graphs/France.png" height="200">
 </a></p>
 
 10. Pure Alcohol is mostly consumed in Belarus i.e. 14.4 which is in Europe.
 
 <p align="center">
-<a><img src="" height="200">
+<a><img src="https://github.com/Ritika821/Drinks-Python-Data-Analysis/blob/main/Graphs/Belarus.jpg" height="200">
 </a></p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
